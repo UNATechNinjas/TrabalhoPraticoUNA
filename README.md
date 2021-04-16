@@ -44,5 +44,3 @@ Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md
 ## Agradecimentos ##
 
 *"O incentivo ao avanço tecnológico, assim como a estrutura atual da organização pode nos levar a considerar a reestruturação das condições inegavelmente apropriadas."*
-
-=======
