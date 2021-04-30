@@ -34,20 +34,22 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md)...
 
 ## Autores ##
 
-* [Alexandre Kalebe Saback Silva](https://github.com/AlexandreSaback/) 👨‍💻
-* ![Foto1](https://avatars.githubusercontent.com/u/78316698?s=96&v=4)
-* [Giovanna Lourenço Viriato](https://github.com/giovanna-viriato) 👨‍💻
-* ![Foto2](https://avatars.githubusercontent.com/u/64810914?s=96&v=4)
-* [Guilherme Costa Souza](https://github.com/guilhermecsouz) 👨‍💻
-* ![Foto3](https://avatars.githubusercontent.com/u/79949386?s=96&v=4)
-* [Lucas Lemuel Diniz Matias](https://github.com/LucasLemuel13) 👨‍💻
-* ![Foto4](https://avatars.githubusercontent.com/u/80295745?s=96&v=4)
-* [Marcos Laranjeiras Silva Ferreira](https://github.com/Taohay) 👨‍💻
-* ![Foto5](https://avatars.githubusercontent.com/u/67201934?s=96&v=4)
-* [Matheus dos Reis Souza Oliveira](https://github.com/matheusreis-oliveira) 👨‍💻
-* ![Foto6](https://avatars.githubusercontent.com/u/61798509?s=96&v=4)
-* [Rodrigo Silva Lima](https://github.com/contatodevlima) 👨‍💻
-* ![Foto7](https://avatars.githubusercontent.com/u/45740195?s=96&v=4)
+| |
+| :---: |
+| [<img src="https://avatars.githubusercontent.com/u/78316698?s=96&v=4?size=115" width=115><br><sub>@AlexandreSaback</sub>](https://github.com/AlexandreSaback/) |
+| Alexandre Kalebe Saback Silva 👨‍💻 |
+| [<img src="https://avatars.githubusercontent.com/u/64810914?s=96&v=4?size=115" width=115><br><sub>@giovanna-viriato</sub>](https://github.com/giovanna-viriato) |
+| Giovanna Lourenço Viriato 👨‍💻 |
+| [<img src="https://avatars.githubusercontent.com/u/79949386?s=96&v=4?size=115" width=115><br><sub>@guilhermecsouz</sub>](https://github.com/guilhermecsouz) |
+| Guilherme Costa Souza 👨‍💻 |
+| [<img src="https://avatars.githubusercontent.com/u/80295745?s=96&v=4?size=115" width=115><br><sub>@LucasLemuel13</sub>](https://github.com/LucasLemuel13) |
+| Lucas Lemuel Diniz Matias 👨‍💻 |
+| [<img src="https://avatars.githubusercontent.com/u/67201934?s=96&v=4?size=115" width=115><br><sub>@Taohay</sub>](https://github.com/Taohay) |
+| Marcos Laranjeiras Silva Ferreira 👨‍💻 |
+| [<img src="https://avatars.githubusercontent.com/u/61798509?v=4?size=115" width=115><br><sub>@matheusreis-oliveira</sub>](https://github.com/matheusreis-oliveira) |
+| Matheus dos Reis Souza Oliveira 👨‍💻 |
+| [<img src="https://avatars.githubusercontent.com/u/45740195?s=96&v=4?size=115" width=115><br><sub>@contatodevlima</sub>](https://github.com/contatodevlima) |
+| Rodrigo Silva Lima 👨‍💻 |
 
 ## Licença ##
 
